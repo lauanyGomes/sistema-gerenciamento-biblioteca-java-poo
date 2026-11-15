@@ -1,5 +1,3 @@
-package model;
-
 public class Professor extends Usuario {
     private String departamento;
     private String siape;
